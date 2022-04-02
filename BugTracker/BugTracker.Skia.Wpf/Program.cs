@@ -1,0 +1,2 @@
+﻿namespace BugTracker.Skia.Gtk {
+}
